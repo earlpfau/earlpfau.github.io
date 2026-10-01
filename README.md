@@ -17,21 +17,19 @@ The reason I chose to enhance this entire project rather than enhancing multiple
 
 ## Enhancements
 - To start this project off I did a self-code review of the potential artifacts within my Investment Calculator Application, which is in the form of a short video.
-- Then I moved into enahnacement one - Software Design and Engineering.
+-  Then I moved into enahnacement one - Software Design and Engineering.
 - Then I moved on to enhancement two - Algorithms and Data Structures. (Completed, but waiting on feedback.)
 - Then for the final enhancement three - Databases. (Started, but not complete.)
 
 ## Self-Code Review
-### Code Review Video
+<span><ins><strong>Code Review Video</strong></ins></span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span><ins><strong>Code Review Checklist</strong></ins></span>
+
 Click on the video or use this link https://youtu.be/rqeax5MER7k
 
-[![Watch the video](https://img.youtube.com/vi/rqeax5MER7k/0.jpg)](https://youtu.be/rqeax5MER7k)
-### Code Review Checklist
-[![Code Review Checklist](cs499_code_review_checklist.pdf)]
-
-[![Code Review Checklist Preview](docs/checklist_preview.png)](cs499_code_review_checklist.pdf)
-
-[Code Review Checklist (PDF)](cs499_code_review_checklist.pdf)
+[![Watch the video](https://img.youtube.com/vi/rqeax5MER7k/0.jpg)](https://youtu.be/rqeax5MER7k) <a href="Docs/cs499_code_review_checklist.pdf"> 
+  <img src="Docs/CodeReviewChecklist.png" width="300">
 
 
 ## Enhancement One
