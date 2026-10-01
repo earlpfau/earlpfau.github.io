@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\AllCalculations.obj",
+            "outputs": [
+                "x64\\Debug\\AllCalculations.h.obj.dt.module.json",
+                "x64\\Debug\\AllCalculations.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
