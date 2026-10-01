@@ -22,9 +22,17 @@ The reason I chose to enhance this entire project rather than enhancing multiple
 - Then for the final enhancement three - Databases. (Started, but not complete.)
 
 ## Self-Code Review
+### Code Review Video
 Click on the video or use this link https://youtu.be/rqeax5MER7k
 
 [![Watch the video](https://img.youtube.com/vi/rqeax5MER7k/0.jpg)](https://youtu.be/rqeax5MER7k)
+### Code Review Checklist
+[![Code Review Checklist](cs499_code_review_checklist.pdf)]
+
+[![Code Review Checklist Preview](docs/checklist_preview.png)](cs499_code_review_checklist.pdf)
+
+[Code Review Checklist (PDF)](cs499_code_review_checklist.pdf)
+
 
 ## Enhancement One
 
