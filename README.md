@@ -32,7 +32,50 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
   <img src="Docs/CodeReviewChecklist.png" width="300">
 
 
-## Enhancement One
+## Enhancement One: Software Design and Engineering
 
+### Artifact: [name of artifacts]
+
+### Original Files
+
+### Enhanced Files
+
+### Plan:
+
+### Reality:
+
+### My Thoughts:
+
+
+
+## Enhancement Two: Algorithms and Data Structures
+
+### Artifact: [name of artifacts]
+
+### Original Files
+
+### Enhanced Files
+
+### Plan:
+
+### Reality:
+
+### My Thoughts:
+
+
+
+## Enhancement Three: Databases
+
+### ARtifact: [name of artifacts]
+
+### Original Files
+
+### Enhanced Files
+
+### Plan:
+
+### Reality:
+
+### My Thoughts:
 
 
