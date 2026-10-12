@@ -1,5 +1,7 @@
 # earlpfau.github.io
 
+## Professional Self-Assessment
+
 ## Enhancement Project
 The following is the project from my CS499 - Computer Science Capstone, with Southern New Hampshire University.
 
