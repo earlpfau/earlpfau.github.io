@@ -88,7 +88,7 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 
 ## Enhancement Three: Databases
 
-### ARtifact: [name of artifacts]
+### Artifact: [name of artifacts]
 
 ### Original Files
 [Original InputOutput.cpp](Enhancement%20Three%20Artifact%20Pfau/Original%20Files/InputOutput.cpp)
@@ -107,6 +107,9 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 [Enhanced UserDatabase.h](Enhancement%20Three%20Artifact%20Pfau/Enhancement%20Three%20Files/UserDatabase.h)
 
 [Enhanced main.cpp](Enhancement%20Three%20Artifact%20Pfau/Enhancement%20Three%20Files/main.cpp)
+
+### Outside Supporting Files
+
 
 ### Plan:
 
