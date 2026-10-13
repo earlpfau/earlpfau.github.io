@@ -44,6 +44,9 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 [Original InputOutput.h](Enhancement%20One%20Artifact%20Pfau/Original%20files/InputOutput.h)
 
 ### Enhanced Files
+[Enhanced InputOutput.cpp](Enhancement%20One%20Artifact%20Pfau/Enhancement%20One%20Files/InputOutput.cpp)
+
+[Enhanced InputOutput.h](Enhancement%20One%20Artifact%20Pfau/Enhancement%20One%20Files/InputOutput.h)
 
 ### Plan:
 
