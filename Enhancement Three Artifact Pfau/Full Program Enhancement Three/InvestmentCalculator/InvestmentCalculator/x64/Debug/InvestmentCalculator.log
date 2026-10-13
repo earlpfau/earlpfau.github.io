@@ -1,0 +1,6 @@
+﻿  AllCalculations.cpp
+  InputOutput.cpp
+  main.cpp
+C:\Users\earlp\Desktop\InvestmentCalculator\InvestmentCalculator\main.cpp(33,18): warning C4101: 'AllCalc': unreferenced local variable
+  Generating Code...
+  InvestmentCalculator.vcxproj -> C:\Users\earlp\Desktop\InvestmentCalculator\x64\Debug\InvestmentCalculator.exe

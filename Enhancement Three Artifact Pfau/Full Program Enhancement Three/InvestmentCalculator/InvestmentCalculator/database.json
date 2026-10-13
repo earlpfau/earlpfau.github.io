@@ -1,0 +1,39 @@
+{
+    "Users": [
+        {
+            "interest_Rate": 34.0,
+            "investment_Amount": 4.0,
+            "monthly_Deposit": 3.0,
+            "number_Of_Years": 34,
+            "username": "kdlfja;lkf"
+        },
+        {
+            "interest_Rate": 0.0,
+            "investment_Amount": 0.0,
+            "monthly_Deposit": 0.0,
+            "number_Of_Years": 0,
+            "username": ""
+        },
+        {
+            "interest_Rate": 2.0,
+            "investment_Amount": 34000.0,
+            "monthly_Deposit": 400.0,
+            "number_Of_Years": 10,
+            "username": "Earl Pfau #2"
+        },
+        {
+            "interest_Rate": 1.0,
+            "investment_Amount": 123456789.0,
+            "monthly_Deposit": 12345.0,
+            "number_Of_Years": 1,
+            "username": "Earl"
+        },
+        {
+            "interest_Rate": 9.0,
+            "investment_Amount": 987654321.0,
+            "monthly_Deposit": 98.0,
+            "number_Of_Years": 9,
+            "username": "BOBS"
+        }
+    ]
+}
