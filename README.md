@@ -39,6 +39,10 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 ### Artifact: [name of artifacts]
 
 ### Original Files
+[Original InputOutput.cpp](Original files/InputOutput.cpp)
+
+<a href="Original files/InputOutput.cpp">
+<a href="Original files/InputOutput.h">
 
 ### Enhanced Files
 
