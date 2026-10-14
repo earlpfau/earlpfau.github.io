@@ -163,7 +163,7 @@ This second enhancement went nearly as planned. I started by first focusing on f
 [Enhanced main.cpp](Enhancement%20Three%20Artifact%20Pfau/Enhancement%20Three%20Files/main.cpp)
 
 ### Outside Supporting Files:
-This header file comes from [put the author and link to the authors github page here]
+This header file comes from https://github.com/nlohmann/json 
 
 [Supporting json.hpp](Enhancement%20Three%20Artifact%20Pfau/Outside%20Supporting%20Files/json.hpp)
 
