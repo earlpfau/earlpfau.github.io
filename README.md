@@ -17,6 +17,12 @@ The categories for this enhancement project is:
 My artifact is my Investment Calculator Application from the course CS210 - Programming Languages, back from February 2025 - which is a console app written in C++.
 The reason I chose to enhance this entire project rather than enhancing multiple projects is because this was one of my first C++ programs that I felt could be enhanced in all three categories. 
 
+### My Overall Thoughts:
+
+This project of enhancements to previous artifacts was really humbling. When I wrote the C++ program back at the beginning of 2025, I felt that I was following industry standards and clarity for potential users. While searching through previous course work for these enhancements, I opened this C++ program and was blown away with how much little things needed fixing. I decided to do all three enhancements to this program, just because I had an urge to fix these small mistakes and to make it clear to the users what was excepted from them and to ensure I was practicing secure programming. The following is my journey through my old program in an effort to make it better than what it was. 
+
+This project reminded me that I will always have more to learn and I will always look at previous works with a different perspective.
+
 ## Enhancements
 - To start this project off I did a self-code review of the potential artifacts within my Investment Calculator Application, which is in the form of a short video.
 -  Then I moved into enahnacement one - Software Design and Engineering.
@@ -77,10 +83,7 @@ To overcome these challenges, I keep a sticky note attached to my computer monit
 
 ### Reality:
 
-I would say that this enhancement was the only one that went as planned. 
-
-### My Thoughts:
-
+I would say that this first enhancement was the only one that went as planned. All I needed to do was to make it clear with output what the program does and what was excepted and accepted as input from the user.
 
 
 ## Enhancement Two: Algorithms and Data Structures
@@ -133,7 +136,7 @@ The main challenges that I faced was having to adjust my design from what I init
 
 ### Reality:
 
-### My Thoughts:
+This second enhancement went nearly as planned. I started by first focusing on fixing my algorithm for calculating the interest with and without monthly deposits. I found that I was calculating the deposits and interest at the wrong times which caused inaccurate calculations. The second thing that I did not notice was how I was asking for user input for the investment data, which was being done by two different methods. I only found this out when I changed some output lines and it wasn't matching up in the two areas where I gather that information from the user. There was much change done for this enhancement, but it was all needed and worth the effort. 
 
 
 
@@ -190,6 +193,8 @@ I felt extremely confident at first when starting the process of enhancing and m
 
 ### Reality:
 
-### My Thoughts:
+This third enhancement felt like I wasn't following my initial plan at all, well at least to the degree of what I had planned. This enhancement was planned to have a Json database added, with encryption of the data at rest. The reality of the later was that it honestly was not needed and posed more issues than I thought it was worth. I decided that the data that was being stored was not worthy of being encrypted due to not having any personal identifiable information for any of the users and no way to link that information to any one person. So, the idea that I needed to encrypt the data at rest was more of a smart idea if it had actual sensitive personal information.  In reality if the program did save sensitive personal information I would indeed want to encrypt and possibly do a hash to check the information for unwanted changes, with a password protected profiles.
+
+Overall, I learned a lot from incorporating a Json database to this C++ program, and I now feel comfortable working with other libraries that are typically not used within C++.
 
 
