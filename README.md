@@ -77,6 +77,8 @@ To overcome these challenges, I keep a sticky note attached to my computer monit
 
 ### Reality:
 
+I would say that this enhancement was the only one that went as planned. 
+
 ### My Thoughts:
 
 
