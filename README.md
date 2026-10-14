@@ -49,6 +49,7 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 [Enhanced InputOutput.h](Enhancement%20One%20Artifact%20Pfau/Enhancement%20One%20Files/InputOutput.h)
 
 ### Plan:
+[Enhancement One Narrative.docx](Docs/Enhancement%201%20Narrative%20Pfau.docx)
 
 ### Reality:
 
@@ -79,6 +80,7 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 [Enhanced InputOutput.h](Enhancement%20Two%20Artifact%20Pfau/Enhancement%20Two%20Files/InputOutput.h)
 
 ### Plan:
+[Enhancement Two Narrative.docx](Docs/Enhancement%202%20Narrative%20Pfau.docx)
 
 ### Reality:
 
@@ -108,12 +110,13 @@ Click on the video or use this link https://youtu.be/rqeax5MER7k
 
 [Enhanced main.cpp](Enhancement%20Three%20Artifact%20Pfau/Enhancement%20Three%20Files/main.cpp)
 
-### Outside Supporting Files
+### Outside Supporting Files:
 This header file comes from [put the author and link to the authors github page here]
 
 [Supporting json.hpp](Enhancement%20Three%20Artifact%20Pfau/Outside%20Supporting%20Files/json.hpp)
 
 ### Plan:
+[Enhancement Three Narrative.docx](Docs/Enhancement%203%20Narrative%20Pfau.docx)
 
 ### Reality:
 
