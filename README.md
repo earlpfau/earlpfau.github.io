@@ -3,7 +3,7 @@
 ## Professional Self-Assessment
 [PDF Version of Professional Self-Assessment](Docs/Professional%20Self-Assessment%20Pfau.pdf)
 
-•	How my coursework has prepared and shaped me in my professional readiness.
+•	<ins>How my coursework has prepared and shaped me in my professional readiness</ins>.
 
 While completing the computer science program and building my ePortfolio has given me a clear understanding of my strengths, my professional values, and the direction I want to take in the field of computer science. While I finished each course throughout the program it has contributed to developing practical, industry-aligned skills while also shaping how I approach problems, collaborating with others, and communicating technical ideas to others. I am going to discuss these five areas of computer science: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and database, and security.
 
@@ -20,7 +20,7 @@ Finally, the program has strengthened my security mindset as well. Through secur
 Overall, completing the program and developing my ePortfolio has helped me recognize my strengths in problem-solving, communication, teamwork, and technical execution. It also clarified my professional goals to build reliable, secure, and efficient software systems while continuing to grow as a collaborative engineer. The ePortfolio serves as a curated representation of these abilities and demonstrates my readiness to enter the computer science field as a capable and employable professional.
 
 
-•	How my artifacts fit together to represent my full range of skill.
+•	<ins>How my artifacts fit together to represent my full range of skill</ins>.
 
 The artifacts in my ePortfolio were selected to represent the breadth of my abilities across the core areas of computer science, and within my personal life. Each artifact highlights a different aspect and area of my technical skillset, and together they form a cohesive picture of my growth throughout my academic journey and within my personal life. 
 
