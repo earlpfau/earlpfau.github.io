@@ -1,6 +1,7 @@
 # earlpfau.github.io
 
 ## Professional Self-Assessment
+[PDF Version of Professional Self-Assessment](Docs/Professional%20Self-Assessment%20Pfau.pdf)
 
 •	How my coursework has prepared and shaped me in my professional readiness.
 
